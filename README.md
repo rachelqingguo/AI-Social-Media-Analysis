@@ -19,9 +19,9 @@ This project analyzes how AI-related discussions differ across Reddit and YouTub
 - **Reddit**: Wed, 4–6PM
 - **YouTube**: Mon, 12–1PM
 
-![Scope](images/scope.png)
-![Word Cloud](images/wordcloud.png)
-![Temporal Analysis](images/temporal.png)
+[Scope](images/scope.png)
+[Word Cloud](images/wordcloud.png)
+[Temporal Analysis](images/temporal.png)
 
 ## 📊 Project Files
 - [🧠 Notebook](code/AI_SocialMedia_Analysis.ipynb)
