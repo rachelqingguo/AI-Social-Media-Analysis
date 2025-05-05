@@ -38,7 +38,7 @@ Reddit users engage most on **Wednesdays 4–6 PM**, while YouTube engagement pe
 Reddit shows steady mention growth for terms like **ChatGPT**, **DeepSeek**, and **Gemini**.  
 YouTube mentions remain flat.
 
-![Trend Forecasting](images/trendforecast.png)
+![Trend Forecasting](images/trendforcasting.png)
 
 ---
 
