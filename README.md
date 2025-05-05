@@ -35,5 +35,4 @@ This project analyzes how AI-related discussions differ across Reddit and YouTub
 ---
 
 ## 📬 Contact
-Qing Guo – UC Davis MSBA  
-This project was completed for BAX 422 – Data Design & Representation
+Rachel Qing Guo – UC Davis MSBA  
