@@ -12,7 +12,7 @@ We used the Reddit API and YouTube API to gather engagement data on AI-related p
 - 🤝 **Community Comparison**: Measure engagement differences across platforms  
 - 📈 **Trend Forecasting**: Predict future mentions of key AI technologies
 
-[Scope](images/scope.png)
+![Scope](images/scope.png)
 
 ---
 
@@ -21,14 +21,8 @@ We used the Reddit API and YouTube API to gather engagement data on AI-related p
 ### 🔹 Temporal Analysis  
 Reddit users engage most on **Wednesdays 4–6 PM**, while YouTube engagement peaks on **Mondays 12–1 PM**.
 
-[Temporal Analysis](images/temporal.png)
+![Temporal Analysis](images/temporal.png)
 
----
-
-### 🔹 Community Comparison  
-YouTube posts generate **more comments per post** despite lower post volume, due to video content’s emotional pull.
-
-[Community Comparison](images/community.png)
 
 ---
 
